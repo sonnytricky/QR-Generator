@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+Anleitung.md
+test.py
+QR-Code/
+dist/
+build/
+Bildgenerator.spec
